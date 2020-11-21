@@ -1,0 +1,39 @@
+{
+    "version": "4.13.4",
+    "description": "Download videos, playlists, channels and subtitles from YouTube, Facebook, Vimeo and other video sites in high quality.",
+    "homepage": "https://www.4kdownload.com/products/product-videodownloader",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://www.4kdownload.com/it/agreement/freeware"
+    },
+    "architecture": {
+        "32bit": {
+            "url": "https://dl.4kdownload.com/app/4kvideodownloader_4.13.4.zip",
+            "hash": "419302a7e4832bc62ff42925a3e356458959f48cf27cd55c6e0d1f1d5a6fd20f"
+        },
+        "64bit": {
+            "url": "https://dl.4kdownload.com/app/4kvideodownloader_4.13.4_x64.zip",
+            "hash": "4cac999f76d1a6bb4353a3be35495d6023132a63dc8a0cc902e96fc5f3e643a4"
+        }
+    },
+    "extract_dir": "4kvideodownloader",
+    "shortcuts": [
+        [
+            "4kvideodownloader.exe",
+            "4K Video Downloader"
+        ]
+    ],
+    "checkver": {
+        "regex": "4kvideodownloader_([\\d.]+)_"
+    },
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://dl.4kdownload.com/app/4kvideodownloader_$version.zip"
+            },
+            "64bit": {
+                "url": "https://dl.4kdownload.com/app/4kvideodownloader_$version_x64.zip"
+            }
+        }
+    }
+}
