@@ -1,0 +1,39 @@
+{
+    "version": "3.0.0",
+    "description": "Convert any video to MP3, M4A, OGG, fully free, safely and easily.",
+    "homepage": "https://www.4kdownload.com/products/product-videotomp3",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://www.4kdownload.com/it/agreement/freeware"
+    },
+    "architecture": {
+        "32bit": {
+            "url": "https://dl.4kdownload.com/app/4kvideotomp3_3.0.0.zip",
+            "hash": "9a65b081f74bfe8e93fcf07e34b3fb59f2ca2fb0f0afcb69002f8cde9eb3800f"
+        },
+        "64bit": {
+            "url": "https://dl.4kdownload.com/app/4kvideotomp3_3.0.0_x64.zip",
+            "hash": "e3f3c8b330b744788c5ae04643a2c07aa10dbb9685e374809e71028988dcef9b"
+        }
+    },
+    "extract_dir": "4kvideotomp3",
+    "shortcuts": [
+        [
+            "4kvideotomp3.exe",
+            "4K Video to MP3"
+        ]
+    ],
+    "checkver": {
+        "regex": "4kvideotomp3_([\\d.]+)_"
+    },
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://dl.4kdownload.com/app/4kvideotomp3_$version.zip"
+            },
+            "64bit": {
+                "url": "https://dl.4kdownload.com/app/4kvideotomp3_$version_x64.zip"
+            }
+        }
+    }
+}
