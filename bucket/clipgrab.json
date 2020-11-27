@@ -1,0 +1,24 @@
+{
+    "version": "3.9.4",
+    "description": "Free downloader and converter for YouTube, Vimeo, Facebook and many other video sites.",
+    "homepage": "https://clipgrab.org/",
+    "license": {
+        "identifier": "GPL-3.0",
+        "url": "https://clipgrab.org/COPYING"
+    },
+    "url": "https://download.clipgrab.org/clipgrab-3.9.4-portable.exe",
+    "hash": "01a6b3403ce990be03882e493230ef6ba99b0c46eb014e25530654b9de892b95",
+    "innosetup": true,
+    "shortcuts": [
+        [
+            "clipgrab.exe",
+            "ClipGrab"
+        ]
+    ],
+    "checkver": {
+        "regex": "Version ([\\d.]+) for Windows"
+    },
+    "autoupdate": {
+        "url": "https://download.clipgrab.org/clipgrab-$version-portable.exe"
+    }
+}
