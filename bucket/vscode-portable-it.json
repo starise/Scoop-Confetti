@@ -28,8 +28,8 @@
         "32bit": {
             "url": [
                 "https://vscode-update.azurewebsites.net/1.52.0/win32-archive/stable#/dl.7z",
-                "https://raw.githubusercontent.com/lukesampson/scoop-extras/master/scripts/vscode-install-context-it.reg",
-                "https://raw.githubusercontent.com/lukesampson/scoop-extras/master/scripts/vscode-uninstall-context-it.reg"
+                "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-install-context-it.reg",
+                "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-uninstall-context-it.reg"
             ],
             "hash": [
                 "144de996c5b779ef751260244b43a8e9f245853903f3da25bc810ca32a39e5f6",
