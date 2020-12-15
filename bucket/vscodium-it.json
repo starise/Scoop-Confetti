@@ -20,8 +20,8 @@
         "32bit": {
             "url": [
                 "https://github.com/VSCodium/vscodium/releases/download/1.52.0/VSCodium-win32-ia32-1.52.0.zip",
-                "https://raw.githubusercontent.com/lukesampson/scoop-extras/master/scripts/vscode-install-it-context-it.reg#/vscodium-install-context-it.reg",
-                "https://raw.githubusercontent.com/lukesampson/scoop-extras/master/scripts/vscode-uninstall-it-context-it.reg#/vscodium-uninstall-context-it.reg"
+                "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-install-context-it.reg#/vscodium-install-context-it.reg",
+                "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-uninstall-context-it.reg#/vscodium-uninstall-context-it.reg"
             ],
             "hash": [
                 "43024ab043771f684f3e3bf60b15593048f63fa6f909485f5a3c1d929a8be3e0",
