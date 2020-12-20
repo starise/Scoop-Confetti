@@ -31,6 +31,7 @@ scoop bucket add confetti https://github.com/starise/Scoop-Confetti
 |[randpass](http://www.den4b.com/)|Random password generator. Supports command line execution|[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html "https://spdx.org/licenses/CC-BY-NC-ND-3.0.html")|
 |[renamer](http://www.den4b.com/)|Powerful and flexible renaming tool that allows to combine multiple renaming actions as a rule set. Also supports regex and meta tags|[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html "https://spdx.org/licenses/CC-BY-NC-ND-3.0.html")|
 |[resizer](http://www.den4b.com/)|Batch image resizer. Supported formats: BMP, GIF, PNG, JPEG, TIFF.|[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html "https://spdx.org/licenses/CC-BY-NC-ND-3.0.html")|
+|[sacd-extract](https://github.com/sacd-ripper/sacd-ripper)|SACD ripping software|[GPL-2.0](https://spdx.org/licenses/GPL-2.0.html "https://spdx.org/licenses/GPL-2.0.html")|
 |[sam](https://github.com/gibbed/SteamAchievementManager)|A manager for game achievements in Steam|[Zlib](https://spdx.org/licenses/Zlib.html "https://spdx.org/licenses/Zlib.html")|
 |[shutter](http://www.den4b.com/)|Scheduling utility that supports many different Events and Actions.|[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html "https://spdx.org/licenses/CC-BY-NC-ND-3.0.html")|
 |[sizer](http://www.brianapps.net/sizer4/)|Accurately resize and reposition windows|[Freeware](https://en.wikipedia.org/wiki/Freeware "https://en.wikipedia.org/wiki/Freeware")|
