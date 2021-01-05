@@ -1,10 +1,10 @@
 {
-    "version": "1.8.4",
+    "version": "1.8.5",
     "description": "Edit the metadata of EPUB files",
     "homepage": "https://github.com/benchen71/epub-metadata-editor",
     "license": "GPL-3.0-or-later",
-    "url": "https://github.com/benchen71/epub-metadata-editor/releases/download/1.8.4/EPubMetadataEditorInstaller.exe#/dl.7z",
-    "hash": "2b339d47c7bece57a55dd2eb685740726be97b2bb84d1f6c91b896bf8e6542b3",
+    "url": "https://github.com/benchen71/epub-metadata-editor/releases/download/1.8.5/EPubMetadataEditorInstaller.exe#/dl.7z",
+    "hash": "e8ad02f38de05ae725e48308a2e7852b3baecf98912bf65ea237ba3abbcdc4f3",
     "innosetup": true,
     "bin": "EPubMetadataEditorConsole.exe",
     "shortcuts": [
