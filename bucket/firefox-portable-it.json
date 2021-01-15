@@ -51,8 +51,8 @@
         ]
     ],
     "checkver": {
-        "url": "https://www.mozilla.org/it/firefox/all/",
-        "regex": "data-latest-firefox=\"([\\d.]+)\""
+        "url": "https://product-details.mozilla.org/1.0/firefox_versions.json",
+        "jsonpath": "$.LATEST_FIREFOX_VERSION"
     },
     "autoupdate": {
         "architecture": {
