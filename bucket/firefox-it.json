@@ -1,6 +1,6 @@
 {
     "version": "84.0.2",
-    "description": "Popular open source web browser. Italian Language Pack. Automatic updates policies disabled.",
+    "description": "Mozilla Firefox: open source web browser. Custom policies.json file. Italian Language Pack.",
     "homepage": "https://www.mozilla.org/it/firefox/",
     "license": "MPL-2.0",
     "architecture": {
