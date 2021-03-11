@@ -1,26 +1,26 @@
 {
-    "version": "86.0",
+    "version": "86.0.1",
     "description": "Mozilla Firefox: open source web browser. Custom policies.json file. Italian Language Pack.",
     "homepage": "https://www.mozilla.org/it/firefox/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
             "url": [
-                "https://archive.mozilla.org/pub/firefox/releases/86.0/win64/it/Firefox%20Setup%2086.0.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/firefox/releases/86.0.1/win64/it/Firefox%20Setup%2086.0.1.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:f88cebae39258212df87072b24f42a7a7a3befe1c59f0966dffce16b399b4c253a84c057d2392d958751f165b31beb96a2cbd14bcdd045692bcf906ced876ba0",
+                "sha512:92c8388724da7e897855aa946057f34d605f26e65a03d00f4a64235f9544eabfcec864449fc8412895dd9d3a542e26c6e89db808292a2721e8041f52fc137dd9",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         },
         "32bit": {
             "url": [
-                "https://archive.mozilla.org/pub/firefox/releases/86.0/win32/it/Firefox%20Setup%2086.0.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/firefox/releases/86.0.1/win32/it/Firefox%20Setup%2086.0.1.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:46c9ddaba8e845c8329bc7734bbc8361015d470edcdf2a9352801e15c0c621bf3f5cad195fd36bcf54196d4af556ce161eb3206ab62b01327ce3415fb3f4e745",
+                "sha512:2099749e5ac98dbc4599fe13e9a98885b5b188211022eb9022e1a5b1184507150634529075329dc25e29b27fc0a652f28439fd3b4014b389682701e93083cf75",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         }
