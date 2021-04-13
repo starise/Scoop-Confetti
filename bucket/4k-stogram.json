@@ -1,5 +1,5 @@
 {
-    "version": "3.3.4",
+    "version": "3.4.0",
     "description": "Download Instagram photos, accounts, hashtags and locations.",
     "homepage": "https://www.4kdownload.com/products/product-stogram",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "32bit": {
-            "url": "https://dl.4kdownload.com/app/4kstogram_3.3.4.zip",
-            "hash": "86e416086f4e8095ad5f59642ec73733e327b4304a20c348a516fb13031c38a5"
+            "url": "https://dl.4kdownload.com/app/4kstogram_3.4.0.zip",
+            "hash": "be243aaeb9ab743ea40cad2f7d2f6da16a4ec84a4f9461cc88c76d540e1a1852"
         },
         "64bit": {
-            "url": "https://dl.4kdownload.com/app/4kstogram_3.3.4_x64.zip",
-            "hash": "1c9bd46ab6d0f6a753ad6741f335da26a941e1b00c1087014da5e20512073544"
+            "url": "https://dl.4kdownload.com/app/4kstogram_3.4.0_x64.zip",
+            "hash": "3137bc14e147e2c2966d030df062653caf3e444335e8be5bfae53469bea452a4"
         }
     },
     "extract_dir": "4kstogram",
