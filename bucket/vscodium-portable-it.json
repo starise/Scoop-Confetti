@@ -1,5 +1,5 @@
 {
-    "version": "1.55.1",
+    "version": "1.55.2",
     "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition). Italian Language Pack included.",
     "homepage": "https://github.com/VSCodium/vscodium",
     "license": "MIT",
@@ -7,24 +7,24 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/VSCodium/vscodium/releases/download/1.55.1/VSCodium-win32-x64-1.55.1.zip",
+                "https://github.com/VSCodium/vscodium/releases/download/1.55.2/VSCodium-win32-x64-1.55.2.zip",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-install-context-it.reg#/vscodium-install-context-it.reg",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-uninstall-context-it.reg#/vscodium-uninstall-context-it.reg"
             ],
             "hash": [
-                "02ebae6e3d320ff88a3e9ba8868888323926445ddbc0a40ebec330f52c2a9eb3",
+                "6a42e97609dc06029168cad589b233b138b3a4247be321ff7f68961937ff8b87",
                 "a4f7db2dddcefc81257a9d7c2069a5c38f57eb94a405844de525bf8752c1dd71",
                 "1cbb05642f0f65703eec46df1453304f69f4c21e65c96b04e83a3089c4d9c41a"
             ]
         },
         "32bit": {
             "url": [
-                "https://github.com/VSCodium/vscodium/releases/download/1.55.1/VSCodium-win32-ia32-1.55.1.zip",
+                "https://github.com/VSCodium/vscodium/releases/download/1.55.2/VSCodium-win32-ia32-1.55.2.zip",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-install-context-it.reg#/vscodium-install-context-it.reg",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-uninstall-context-it.reg#/vscodium-uninstall-context-it.reg"
             ],
             "hash": [
-                "1aab37b51cd37a4d19c59a88b832116b167ae89d6df14d246e125f841bbfdee9",
+                "c0b7463aa7d313603fedbd0452ca136260f9f041cd48200912c3eced9bb699e2",
                 "a4f7db2dddcefc81257a9d7c2069a5c38f57eb94a405844de525bf8752c1dd71",
                 "1cbb05642f0f65703eec46df1453304f69f4c21e65c96b04e83a3089c4d9c41a"
             ]
