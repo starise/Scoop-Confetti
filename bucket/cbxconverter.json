@@ -1,0 +1,25 @@
+{
+    "version": "0.12.2",
+    "description": "Helper utility for cbz/cbr files (comic books mostly) content scaling and converting to WebP format",
+    "homepage": "https://tomeko.net/software/CbxConverter",
+    "license": "Freeware",
+    "url": "http://tomeko.net/software/CbxConverter/bin/CbxConverter_0_12_2.7z",
+    "hash": "f0b60c890985d50b263e53bf849ca3e04d0a14751fede563412341e0e2e6bb95",
+    "extract_dir": "CbxConverter_0_12_2",
+    "persist": "CbxConverter.ini",
+    "pre_install": "if (!(Test-Path \"$dir\\CbxConverter.ini\")) { New-Item \"$dir\\CbxConverter.ini\" -Type file | Out-Null }",
+    "shortcuts": [
+        [
+            "CbxConverter.exe",
+            "CbxConverter"
+        ]
+    ],
+    "checkver": {
+        "regex": "Version ([\\d.]+)",
+        "reverse": true
+    },
+    "autoupdate": {
+        "url": "http://tomeko.net/software/CbxConverter/bin/CbxConverter_$underscoreVersion.7z",
+        "extract_dir": "CbxConverter_$underscoreVersion"
+    }
+}
