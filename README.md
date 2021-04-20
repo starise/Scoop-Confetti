@@ -1,5 +1,7 @@
 # Scoop-Confetti
 
+[![Excavator](https://github.com/starise/Scoop-Confetti/actions/workflows/schedule.yml/badge.svg)](https://github.com/starise/Scoop-Confetti/actions/workflows/schedule.yml)
+
 Bucket of Confetti 🎊 for [Scoop](https://scoop.sh/) command-line installer for Windows.
 
 ## Installation
