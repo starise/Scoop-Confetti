@@ -1,0 +1,39 @@
+{
+    "version": "1.90",
+    "description": "Free cross-platform batch image converter and resizer.",
+    "homepage": "https://www.xnview.com/en/xnconvert/",
+    "license": "Freeware",
+    "suggest": {
+        "CLI Batch utility for images": "confetti/nconvert"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "http://download.xnview.com/XnConvert-win-x64.zip",
+            "hash": "c266e34149de6c93a44debda4746622ceaa25b1b65655658a6beaa8c95fb2f7c"
+        },
+        "32bit": {
+            "url": "http://download.xnview.com/XnConvert-win.zip",
+            "hash": "dba3bf1de553e11fac3be90cb4aba210343dc32d85f96956cce89731d970accf"
+        }
+    },
+    "extract_dir": "XnConvert",
+    "shortcuts": [
+        [
+            "XnConvert.exe",
+            "XnConvert"
+        ]
+    ],
+    "checkver": {
+        "regex": "Version ([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "http://download.xnview.com/XnConvert-win-x64.zip"
+            },
+            "32bit": {
+                "url": "http://download.xnview.com/XnConvert-win.zip"
+            }
+        }
+    }
+}

@@ -58,3 +58,4 @@ scoop bucket add confetti https://github.com/starise/Scoop-Confetti
 |[vscodium-it](https://github.com/VSCodium/vscodium)|Binary releases of VS Code without MS branding/telemetry/licensing. Italian Language Pack included.|[MIT](https://spdx.org/licenses/MIT.html "https://spdx.org/licenses/MIT.html")|
 |[vscodium-portable-it](https://github.com/VSCodium/vscodium)|Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition). Italian Language Pack included.|[MIT](https://spdx.org/licenses/MIT.html "https://spdx.org/licenses/MIT.html")|
 |[wilma](http://www.stefandidak.com/windows-layout-manager/)|Window Layout Manager, or WiLMA for short.|[Freeware](https://en.wikipedia.org/wiki/Freeware "https://en.wikipedia.org/wiki/Freeware")|
+|[xnconvert](https://www.xnview.com/en/xnconvert/)|Free cross-platform batch image converter and resizer.|[Freeware](https://en.wikipedia.org/wiki/Freeware "https://en.wikipedia.org/wiki/Freeware")|
