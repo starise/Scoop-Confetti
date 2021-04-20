@@ -47,7 +47,6 @@ scoop bucket add confetti https://github.com/starise/Scoop-Confetti
 |[resizer](http://www.den4b.com/)|Batch image resizer. Supported formats: BMP, GIF, PNG, JPEG, TIFF.|[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html "https://spdx.org/licenses/CC-BY-NC-ND-3.0.html")|
 |[sacd-extract](https://github.com/sacd-ripper/sacd-ripper)|SACD ripping software|[GPL-2.0](https://spdx.org/licenses/GPL-2.0.html "https://spdx.org/licenses/GPL-2.0.html")|
 |[sacd-extract-gui](https://sourceforge.net/projects/sacd-extract-gui)|Simple GUI for sacd_extract tool of sacd-ripper package|[MIT](https://spdx.org/licenses/MIT.html "https://spdx.org/licenses/MIT.html")|
-|[sam](https://github.com/gibbed/SteamAchievementManager)|A manager for game achievements in Steam|[Zlib](https://spdx.org/licenses/Zlib.html "https://spdx.org/licenses/Zlib.html")|
 |[shutter](http://www.den4b.com/)|Scheduling utility that supports many different Events and Actions.|[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html "https://spdx.org/licenses/CC-BY-NC-ND-3.0.html")|
 |[sizer](http://www.brianapps.net/sizer4/)|Accurately resize and reposition windows|[Freeware](https://en.wikipedia.org/wiki/Freeware "https://en.wikipedia.org/wiki/Freeware")|
 |[srt-to-vtt](https://github.com/nwoltman/srt-to-vtt-cl)|Converts subtitle files from SubRib (.srt) format to WebVTT (.vtt) format|[MIT](https://spdx.org/licenses/MIT.html "https://spdx.org/licenses/MIT.html")|
