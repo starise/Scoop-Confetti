@@ -1,12 +1,12 @@
 {
-    "version": "88.0",
+    "version": "88.0.1",
     "description": "Fork of Firefox focused on privacy, security and freedom",
     "homepage": "https://librewolf-community.gitlab.io",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitlab.com/librewolf-community/browser/windows/uploads/4c7f0e98f911777f11ffa35fab1a0678/librewolf-88.0.en-US.win64.zip",
-            "hash": "44278646b92586eedddf78ce2c76a30f3eb118763cc1548bc95f1dc5ff4ec3ea"
+            "url": "https://gitlab.com/librewolf-community/browser/windows/uploads/59bce90c41b0f6baae219cc4f44df9e8/librewolf-88.0.1.en-US.win64.zip",
+            "hash": "1ff7b39bb940f71d2d4abfe4dfe7ea333c00fa134e607e26be6e901f968ec2d9"
         }
     },
     "extract_dir": "librewolf",
