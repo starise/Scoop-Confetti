@@ -1,5 +1,5 @@
 {
-    "version": "1.56.0",
+    "version": "1.56.1",
     "description": "Lightweight but powerful source code editor. Italian Language Pack included.",
     "homepage": "https://code.visualstudio.com/",
     "license": {
@@ -10,24 +10,24 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://update.code.visualstudio.com/1.56.0/win32-x64-archive/stable#/dl.7z",
+                "https://update.code.visualstudio.com/1.56.1/win32-x64-archive/stable#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-install-context-it.reg",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-uninstall-context-it.reg"
             ],
             "hash": [
-                "6381ada5dd97e7ba4f0b634f66f8ff4257a3695af9e0ec39eadd44c20f5100c0",
+                "3060c60bfc1fec10f1b730bf94b45ff859040277c4c5ef78d49e0ac013f5623b",
                 "a4f7db2dddcefc81257a9d7c2069a5c38f57eb94a405844de525bf8752c1dd71",
                 "1cbb05642f0f65703eec46df1453304f69f4c21e65c96b04e83a3089c4d9c41a"
             ]
         },
         "32bit": {
             "url": [
-                "https://update.code.visualstudio.com/1.56.0/win32-archive/stable#/dl.7z",
+                "https://update.code.visualstudio.com/1.56.1/win32-archive/stable#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-install-context-it.reg",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-uninstall-context-it.reg"
             ],
             "hash": [
-                "a020da7dec6f8e9bf4b4c628702d225f0452f5003b2f5ca6ff18a4d8dca9ac05",
+                "108a0e7c8913d0438b086d0c368aa55fd3d6588ef38e3d422e50c2209366bedc",
                 "a4f7db2dddcefc81257a9d7c2069a5c38f57eb94a405844de525bf8752c1dd71",
                 "1cbb05642f0f65703eec46df1453304f69f4c21e65c96b04e83a3089c4d9c41a"
             ]
