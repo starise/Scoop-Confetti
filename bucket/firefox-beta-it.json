@@ -1,26 +1,26 @@
 {
-    "version": "90.0b2",
+    "version": "90.0b3",
     "description": "Firefox Beta: open source web browser. Custom policies.json file. Italian Language Pack.",
     "homepage": "https://www.mozilla.org/it/firefox/beta/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
             "url": [
-                "https://archive.mozilla.org/pub/firefox/releases/90.0b2/win64/it/Firefox%20Setup%2090.0b2.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/firefox/releases/90.0b3/win64/it/Firefox%20Setup%2090.0b3.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:05f8b4cdae672b9eeb96fad9d68f373497b2898354563c829d82f4f3637593fb0bde2798a2f641724491f970c8f2e975934746e9589c1ed5f8252e8a9e8dd774",
+                "sha512:2fffaa50cb15d3dd250443ed01b525971c985579f470f52e6e31dd586b622ba292cda7401839696f535a18c404e5414558dbd1d92948bca87d4ee239b6371979",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         },
         "32bit": {
             "url": [
-                "https://archive.mozilla.org/pub/firefox/releases/90.0b2/win32/it/Firefox%20Setup%2090.0b2.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/firefox/releases/90.0b3/win32/it/Firefox%20Setup%2090.0b3.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:bda76888492700026faca0817611eb4dda05687ddfd81d33db4edbdb05042876b06cc696b9a424ee356e0c7c8816ab16087df1760d26ed4aab5a0d5abfa64543",
+                "sha512:e36ce7ba801faebcb7f04d4a0276117fd6d35304e3ff663ef76997ef1560b0e8b0333c25786a0359e58bf91d4b9bb728500cf1414f0c9db9a19cc81da69298e3",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         }
