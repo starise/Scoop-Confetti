@@ -6,10 +6,10 @@
     "architecture": {
         "64bit": {
             "url": "https://gitlab.com/librewolf-community/browser/windows/uploads/3c5be431963122e83c9199cddd8753cf/librewolf-91.0.1.en-US.win64.zip",
-            "hash": "9fdf3ed538517a22545a820baf4cb8cfd24638bbe4fa2e2b39ce8f5e1c11e467"
+            "hash": "9fdf3ed538517a22545a820baf4cb8cfd24638bbe4fa2e2b39ce8f5e1c11e467",
+            "extract_dir": "librewolf-91.0.1/LibreWolf"
         }
     },
-    "extract_dir": "librewolf",
     "persist": "librewolf.cfg",
     "bin": "librewolf.exe",
     "shortcuts": [
@@ -26,7 +26,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitlab.com/librewolf-community/browser/windows/uploads/$matchGUID/librewolf-$version.en-US.win64.zip"
+                "url": "https://gitlab.com/librewolf-community/browser/windows/uploads/$matchGUID/librewolf-$version.en-US.win64.zip",
+                "extract_dir": "librewolf-$version/LibreWolf"
             }
         }
     }
