@@ -1,26 +1,26 @@
 {
-    "version": "91.0.1",
+    "version": "91.0.2",
     "description": "Mozilla Firefox: open source web browser. Custom policies.json file. Italian Language Pack.",
     "homepage": "https://www.mozilla.org/it/firefox/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
             "url": [
-                "https://archive.mozilla.org/pub/firefox/releases/91.0.1/win64/it/Firefox%20Setup%2091.0.1.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/firefox/releases/91.0.2/win64/it/Firefox%20Setup%2091.0.2.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:d59de6d17db5003de506c4a5585d4460f37dbe26a6dd8485646a969857a9a0098a285c5d01819c8cbd99b2a285c8201b92c7ec3de915332cb61f7b8c0121f2f8",
+                "sha512:8552616b06d9e4823ac18cbd335204fcbd907d04630abb03eb9f30aeb75edc5d200c8bcf184f90b51fdb0587947e3ac4402eb3396761c02a59b1e0f3bdabfca6",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         },
         "32bit": {
             "url": [
-                "https://archive.mozilla.org/pub/firefox/releases/91.0.1/win32/it/Firefox%20Setup%2091.0.1.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/firefox/releases/91.0.2/win32/it/Firefox%20Setup%2091.0.2.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:9edd2d722d1795ecc63879b60257e05b51796623e9e544ffb01f8a03a4ab4d3a9b3025c50c1624dd8666cf2269379756b59722b68b9cde2d5386498ca64580ff",
+                "sha512:beb19f579e2894534a79e7a0783735b430f6fab9a327099bdcc461c759db37afdb70d50e457633f3c5fb510ddc0f59df7faefec1fd0d6c38bfb9fe31b126d215",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         }
