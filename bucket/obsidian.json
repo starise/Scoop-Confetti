@@ -24,7 +24,7 @@
     ],
     "checkver": {
         "url": "https://obsidian.md/",
-        "regex": "Beta version ([\\d.]+)"
+        "regex": "Version ([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
