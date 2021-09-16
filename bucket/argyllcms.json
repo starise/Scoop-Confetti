@@ -1,19 +1,19 @@
 {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "description": "ICC compatible color management system. Accurate ICC profile creation for scanners, cameras and film recorders. Calibration and profiling of displays and RGB & CMYK printers.",
     "homepage": "http://argyllcms.com",
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://www.argyllcms.com/Argyll_V2.2.0_win64_exe.zip",
-            "hash": "633c8676fa838fe37f68a2edfcfc7a772d4dae42ef96bb42c68e6c446bdef75d"
+            "url": "https://www.argyllcms.com/Argyll_V2.2.1_win64_exe.zip",
+            "hash": "207f0ad47b1f93bac53db5d85e0d9ef05628f889fe897eae4f4cb1e4009e7633"
         },
         "32bit": {
-            "url": "https://www.argyllcms.com/Argyll_V2.2.0_win32_exe.zip",
-            "hash": "70f229f3915b72ae0202ed075d60bef28ff6d4a58ab32fb709701abae7a800e9"
+            "url": "https://www.argyllcms.com/Argyll_V2.2.1_win32_exe.zip",
+            "hash": "7f8545523fc26400d6f56d7139116c20a8283547674348a7a7e0a092c0a16785"
         }
     },
-    "extract_dir": "Argyll_V2.2.0",
+    "extract_dir": "Argyll_V2.2.1",
     "bin": [
         "bin\\applycal.exe",
         "bin\\average.exe",
