@@ -1,13 +1,13 @@
 {
-    "version": "3.9.6",
+    "version": "3.9.7",
     "description": "Free downloader and converter for YouTube, Vimeo, Facebook and many other video sites.",
     "homepage": "https://clipgrab.org/",
     "license": {
         "identifier": "GPL-3.0",
         "url": "https://clipgrab.org/COPYING"
     },
-    "url": "https://download.clipgrab.org/clipgrab-3.9.6-portable.exe",
-    "hash": "7898c1562d3da2df629a636193776f6f5c37fb3c7cdb963fa7d4367091c3d713",
+    "url": "https://download.clipgrab.org/clipgrab-3.9.7-portable.exe",
+    "hash": "0ae8656f4c65673d75544cff54721cbfc586edd6e8b4b2a2070930684920411e",
     "innosetup": true,
     "shortcuts": [
         [
