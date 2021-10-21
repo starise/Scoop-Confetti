@@ -1,11 +1,11 @@
 {
-    "version": "7.00",
+    "version": "7.20",
     "description": "Real-time audio suitability checker.",
     "homepage": "https://www.resplendence.com/latencymon",
     "license": "Freeware",
     "depends": "innounp",
     "url": "https://www.resplendence.com/download/LatencyMon.exe",
-    "hash": "77e90f0f042f9806639de25c67fa78948696cb635c8f47c4f11e92cd6162a2ae",
+    "hash": "7de921e0d395366ac6ca93c2fee06db08d0ef41eae87fe6c11c75ac8dcd870af",
     "installer": {
         "script": [
             "& (Get-HelperPath 'innounp') -x -d\"$dir\" \"$dir\\$fname\" -y | Out-Null",
