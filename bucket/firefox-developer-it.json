@@ -1,26 +1,26 @@
 {
-    "version": "95.0b2",
+    "version": "95.0b3",
     "description": "Firefox Developer Edition: open source web browser. Custom policies.json file. Italian Language Pack.",
     "homepage": "https://www.mozilla.org/it/firefox/developer/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
             "url": [
-                "https://archive.mozilla.org/pub/devedition/releases/95.0b2/win64/it/Firefox%20Setup%2095.0b2.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/devedition/releases/95.0b3/win64/it/Firefox%20Setup%2095.0b3.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:4bef6b4185a62149e19be854e760c276138991a37ca3dd6cdf6b8c89930265cea6b60a8f3a4f18d63da372ee43596089e2fe354e0dad6192e1d49a97bc4812b2",
+                "sha512:3b1231cde9c0ed90c556958c94a501ab4d228659a282240e41ff6eb1f58f8316389ab0eae5aaf2bea9dce8b18bef3fb8d8137ec7e94bab3b32776bbaf2c7de9c",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         },
         "32bit": {
             "url": [
-                "https://archive.mozilla.org/pub/devedition/releases/95.0b2/win32/it/Firefox%20Setup%2095.0b2.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/devedition/releases/95.0b3/win32/it/Firefox%20Setup%2095.0b3.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:93a3745721b20256902d7e56ce9bb73c86fa75b0c2c03753ae36a661dee6bbf01e2d3abc63b0cb3dc9a2e68ae4ba299be29ac5610c124685e5a29a83e332fc8e",
+                "sha512:ad33ccd4757470129bd866bc2dfc8c3081be0478e50fb1f5d29792ec1ad571ccbe25bb7a44a227f1208ff577826f552d4baf5da1d9641aca33292adcec3be461",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         }
