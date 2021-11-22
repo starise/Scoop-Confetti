@@ -1,26 +1,26 @@
 {
-    "version": "95.0b9",
+    "version": "95.0b10",
     "description": "Firefox Developer Edition: open source web browser. Custom policies.json file. Italian Language Pack.",
     "homepage": "https://www.mozilla.org/it/firefox/developer/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
             "url": [
-                "https://archive.mozilla.org/pub/devedition/releases/95.0b9/win64/it/Firefox%20Setup%2095.0b9.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/devedition/releases/95.0b10/win64/it/Firefox%20Setup%2095.0b10.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:5a97de7c2945e7b1dc301d20ce09d4136d7d1a9fbb977b5771b927dab5caba3a33225786c8023a5ffa71064ea41d7805d3d6404940d2752a4c666c65bd27c8f8",
+                "sha512:e4dd697611c9c6cf339d8db43ec1f84a6e996549c6f544d80e501e6708e322e76f350c686086e07e74577206dc6e1c58fd5e39626e0cab1091fa35f4201664fb",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         },
         "32bit": {
             "url": [
-                "https://archive.mozilla.org/pub/devedition/releases/95.0b9/win32/it/Firefox%20Setup%2095.0b9.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/devedition/releases/95.0b10/win32/it/Firefox%20Setup%2095.0b10.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:cea83d246857cb9034e9a20b3e299c7382ca1baadbdf950ab38f0d7ccd06f0efbdddd3ed2e228b337ae93bcee01fdeb15ff28088314eaf3c251fe95ceb5e747c",
+                "sha512:0bb10b49a9bc44a785735fed462de119615392bdbde882dfed8370cd3e1d2839620328c852f8932f1ba336e76d416c7b81cd80a37dfc9cd49044fcffafb34eb1",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         }
