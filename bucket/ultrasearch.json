@@ -1,5 +1,5 @@
 {
-    "version": "3.1.2",
+    "version": "3.2",
     "description": "Search for files and folders at lightning speed on local NTFS drives and provides results in a clear overview",
     "homepage": "https://www.jam-software.com/ultrasearch_free",
     "license": {
@@ -9,11 +9,11 @@
     "architecture": {
         "32bit": {
             "url": "https://downloads.jam-software.de/ultrasearch/UltraSearch-x86.zip",
-            "hash": "2dca1da6782efb917f85ed7c5c888aa9003cd7fb3f9550ffbb0572e1a3966008"
+            "hash": "9055ca5af047b861da037c1d452fae94dd7d8871064c1545903edb07c5859788"
         },
         "64bit": {
             "url": "https://downloads.jam-software.de/ultrasearch/UltraSearch-x64.zip",
-            "hash": "2dca1da6782efb917f85ed7c5c888aa9003cd7fb3f9550ffbb0572e1a3966008"
+            "hash": "9055ca5af047b861da037c1d452fae94dd7d8871064c1545903edb07c5859788"
         }
     },
     "persist": "Settings.xml",
