@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0-beta",
+    "version": "0.1.0-beta.1",
     "description": "Desktop music browser / streaming service that retrieves info and audio/video from Last.FM, Discogs, VK, YouTube, Deezer, Yandex Music, Odnoklassniki, Spotify, SoundCloud, Bandcamp, Genius and Rate Your Music.",
     "homepage": "https://github.com/staniel359/muffon",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/staniel359/muffon/releases/download/v0.1.0-beta/muffon-0.1.0-beta.exe#/dl.7z",
-            "hash": "b5727850db7328540f27f72ed29cc814a264a6e82b95f9ef9f3c641b67549968",
+            "url": "https://github.com/staniel359/muffon/releases/download/v0.1.0-beta.1/muffon-0.1.0-beta.1.exe#/dl.7z",
+            "hash": "baf1481086d8a9cfaa2b82ef76867ba62042023aae3fb8aafefc617845596605",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\" -Force -Recurse"
