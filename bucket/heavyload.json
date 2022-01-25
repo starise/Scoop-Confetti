@@ -1,5 +1,5 @@
 {
-    "version": "3.6",
+    "version": "3.7",
     "description": "Bring your PC under a heavy load and lets you test its reliability",
     "homepage": "https://www.jam-software.com/heavyload",
     "license": {
@@ -13,7 +13,7 @@
         },
         "64bit": {
             "url": "https://downloads.jam-software.de/heavyload/HeavyLoad-x64.zip",
-            "hash": "0646cbcf2f5e38c103fe4e6f5383437d3aa16f00dc612184e4afaf78544621e3"
+            "hash": "e7cc8b8464e168cc8e9cd89386b7e8b19a3c6a5e63576e9fc61fb8fb2bb5d51f"
         }
     },
     "shortcuts": [
