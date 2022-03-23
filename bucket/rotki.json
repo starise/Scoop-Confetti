@@ -1,12 +1,12 @@
 {
-    "version": "1.23.3",
+    "version": "1.23.4",
     "description": "Open source portfolio tracker, accounting and analytics tool that protects your privacy.",
     "homepage": "https://rotki.com",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rotki/rotki/releases/download/v1.23.3/rotki-win32_x64-v1.23.3.exe#/dl.7z",
-            "hash": "53939963a50276f9e212b8b58b7239fb5de9afcb07141c469bac04e4484dd6e3",
+            "url": "https://github.com/rotki/rotki/releases/download/v1.23.4/rotki-win32_x64-v1.23.4.exe#/dl.7z",
+            "hash": "de9c802364020e0d3d3b6cb995c2f322ed262ccb9b30942150004bb5b757775c",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\" -Force -Recurse"
