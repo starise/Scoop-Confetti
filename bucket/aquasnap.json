@@ -1,5 +1,5 @@
 {
-    "version": "1.23.11",
+    "version": "1.23.13",
     "description": "Enhances the way you can arrange windows on your Desktop.",
     "homepage": "https://www.nurgo-software.com/products/aquasnap",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.nurgo-software.com/company/eula/80-aquasnap"
     },
     "url": "https://www.nurgo-software.com/download/AquaSnap.zip",
-    "hash": "945b56e970c85ea97363bac42d3107dcde44913589e9d8e7056ad9b130418bb3",
+    "hash": "379d80403364c06b2ba19c88e0385cc69a7536238dd83446e1cf91058cc17d2b",
     "persist": "AquaSnap.ini",
     "shortcuts": [
         [
