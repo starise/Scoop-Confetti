@@ -1,5 +1,5 @@
 {
-    "version": "1.67.2",
+    "version": "1.68.0",
     "description": "Lightweight but powerful source code editor (Portable Edition). Italian Language Pack included.",
     "homepage": "https://code.visualstudio.com/",
     "license": {
@@ -15,24 +15,24 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://update.code.visualstudio.com/1.67.2/win32-x64-archive/stable#/dl.7z",
+                "https://update.code.visualstudio.com/1.68.0/win32-x64-archive/stable#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-install-context-it.reg",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-uninstall-context-it.reg"
             ],
             "hash": [
-                "24b6e309c531c2be4ae07f703ab23e307b09e9f864b2a172024c5d5ef19edfc6",
+                "f888de82d471575377849acccf781a676e841c3892d3d2b2abc0ff8de1e499fb",
                 "a4f7db2dddcefc81257a9d7c2069a5c38f57eb94a405844de525bf8752c1dd71",
                 "1cbb05642f0f65703eec46df1453304f69f4c21e65c96b04e83a3089c4d9c41a"
             ]
         },
         "32bit": {
             "url": [
-                "https://update.code.visualstudio.com/1.67.2/win32-archive/stable#/dl.7z",
+                "https://update.code.visualstudio.com/1.68.0/win32-archive/stable#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-install-context-it.reg",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/vscode-uninstall-context-it.reg"
             ],
             "hash": [
-                "612a3dcc0d34f3b7952025c69f94163728c064f5eac27b3896262ab3a782b14e",
+                "5c797d96c08d8ade0003080fc6cfe14ad29643153d121126fe6bbab9701d4f6a",
                 "a4f7db2dddcefc81257a9d7c2069a5c38f57eb94a405844de525bf8752c1dd71",
                 "1cbb05642f0f65703eec46df1453304f69f4c21e65c96b04e83a3089c4d9c41a"
             ]
