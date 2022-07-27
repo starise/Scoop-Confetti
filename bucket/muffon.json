@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/staniel359/muffon/releases/download/v0.2.0/muffon-0.2.0.exe#/dl.7z",
-            "hash": "c5b9b8fc8832283270c19907f732c599ad53cfa9dd52915b285951925e725a58",
+            "hash": "effba8011e266c59cf45c800308a7d02dbecec21f05614766335829db4238e0b",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\" -Force -Recurse"
