@@ -1,11 +1,11 @@
 {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "description": "Image compression software. Compress your pictures up to 90% without visible quality loss",
     "homepage": "https://saerasoft.com/caesium",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/Lymphatus/caesium-image-compressor/releases/download/v2.1.0/caesium-image-compressor-2.1.0-win.zip",
-    "hash": "7efc69436328870d3f8f3e736b38043c67fd4c1883d5982d3a3e0a9af8a109f1",
-    "extract_dir": "caesium-image-compressor-2.1.0-win",
+    "url": "https://github.com/Lymphatus/caesium-image-compressor/releases/download/v2.2.0/caesium-image-compressor-2.2.0-win.zip",
+    "hash": "e2a972e545f542101021a425b9010a0fa918194f03e43bdfb4c3701635c9799e",
+    "extract_dir": "caesium-image-compressor-2.2.0-win",
     "shortcuts": [
         [
             "Caesium Image Compressor.exe",
