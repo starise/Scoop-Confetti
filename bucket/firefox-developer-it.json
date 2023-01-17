@@ -1,26 +1,26 @@
 {
-    "version": "109.0b9",
+    "version": "110.0b1",
     "description": "Firefox Developer Edition: open source web browser. Custom policies.json file. Italian Language Pack.",
     "homepage": "https://www.mozilla.org/it/firefox/developer/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
             "url": [
-                "https://archive.mozilla.org/pub/devedition/releases/109.0b9/win64/it/Firefox%20Setup%20109.0b9.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/devedition/releases/110.0b1/win64/it/Firefox%20Setup%20110.0b1.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:08ac2a04e336302ecbfdf05efeae1b91711a7344181a4653f57c040c357bc5e1a7f6565108086d08c0d322fde648f286e2a6192813094d8661b6ee28e9048f5c",
+                "sha512:5f096d1dd86ca8fed4b606e15bf6b0dd32591f391ffba4c51f87509b220681cc98036cd742db6218766eccc143fa461926ecec70fc847ef6d167df56f23de951",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         },
         "32bit": {
             "url": [
-                "https://archive.mozilla.org/pub/devedition/releases/109.0b9/win32/it/Firefox%20Setup%20109.0b9.exe#/dl.7z",
+                "https://archive.mozilla.org/pub/devedition/releases/110.0b1/win32/it/Firefox%20Setup%20110.0b1.exe#/dl.7z",
                 "https://raw.githubusercontent.com/starise/scoop-confetti/master/scripts/firefox-policies.json#/policies.json"
             ],
             "hash": [
-                "sha512:bf388b6ed7f69be2b220fc69d329b60542572ca8886657355cfab26f898919e1c893e9e8405e64d63d909e53bcfac8a99d5e6ef363df2af20d0bdf0ed95dbf61",
+                "sha512:827500e9c7bc2791ad6dde5a2ad4c1b4b7f1a47dcbf51f671b118622e9be29c2a11fd5777d9f1b0403d31953d1728f022fcee030d39b867d365e5e8bc2a7dec5",
                 "cb75fbc7489904edf08041213b70c67c8dad3f54fdecdadd623fdb0f44cbaef6"
             ]
         }
