@@ -1,5 +1,5 @@
 {
-    "version": "2.37.1",
+    "version": "2.37.2",
     "description": "Audio & video encoding GUI for Windows. Supports x265 and hardware encoders for AMD, Intel and Nvidia, AviSynth+ and VapourSynth for video processing.",
     "homepage": "https://github.com/staxrip/staxrip",
     "license": "MIT",
@@ -8,9 +8,9 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/staxrip/staxrip/releases/download/v2.37.1/StaxRip-v2.37.1-x64.7z",
-            "hash": "a2af248b1c2f8dd4c1feff325684eacb561a397cff20665ab0649c0766ccd2a8",
-            "extract_dir": "StaxRip-v2.37.1-x64"
+            "url": "https://github.com/staxrip/staxrip/releases/download/v2.37.2/StaxRip-v2.37.2-x64.7z",
+            "hash": "486ae8b5d98a4c0dc5f8c7413609fa55aac00200d77151e7322a5b8941f9abef",
+            "extract_dir": "StaxRip-v2.37.2-x64"
         }
     },
     "pre_install": "if (!(Test-Path \"$dir\\Settings\")) { New-Item \"$dir\\Settings\" -Type Directory | Out-Null }",
