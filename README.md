@@ -69,3 +69,4 @@ scoop bucket add confetti https://github.com/starise/Scoop-Confetti
 |[win10-virtual-desktop-enhancer](https://github.com/starise/win10-virtual-desktop-enhancer)|AutoHotkey script that enhances Windows 10 multiple desktops with additional hotkeys and multiple wallpapers.|[MIT](https://spdx.org/licenses/MIT.html "https://spdx.org/licenses/MIT.html")|
 |[win11-toggle-rounded-corners](https://github.com/oberrich/win11-toggle-rounded-corners)|A simple utility to disable window rounded corners on Windows 11.|[MIT](https://spdx.org/licenses/MIT.html "https://spdx.org/licenses/MIT.html")|
 |[win11-virtual-desktop-extension](https://github.com/starise/win11-virtual-desktop-extension)|Enhances Windows 11 virtual desktops with additional keyboard shortcuts and mouse wheel desktop switch.|[ISC](https://spdx.org/licenses/ISC.html "https://spdx.org/licenses/ISC.html")|
+|[winbox4](https://mikrotik.com/)|MikroTik RouterOS graphical application.|Unknown|
