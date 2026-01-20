@@ -66,3 +66,4 @@ scoop bucket add confetti https://github.com/starise/Scoop-Confetti
 |[win11-toggle-rounded-corners](https://github.com/oberrich/win11-toggle-rounded-corners)|A simple utility to disable window rounded corners on Windows 11.|[MIT](https://spdx.org/licenses/MIT.html "https://spdx.org/licenses/MIT.html")|
 |[win11-virtual-desktop-extension](https://github.com/starise/win11-virtual-desktop-extension)|Enhances Windows 11 virtual desktops with additional keyboard shortcuts and mouse wheel desktop switch.|[ISC](https://spdx.org/licenses/ISC.html "https://spdx.org/licenses/ISC.html")|
 |[winbox4](https://mikrotik.com/)|MikroTik RouterOS graphical application.|Unknown|
+|[winhance](https://github.com/memstechtips/Winhance)|Optimize, customize and enhance your Windows experience.|[CC-BY-NC-SA-4.0](https://github.com/memstechtips/Winhance/blob/main/LICENSE.txt "https://github.com/memstechtips/Winhance/blob/main/LICENSE.txt")|
