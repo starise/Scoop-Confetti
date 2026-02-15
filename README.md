@@ -39,6 +39,7 @@ scoop bucket add confetti https://github.com/starise/Scoop-Confetti
 |[freezer](https://freezer.life)|Free deezer client, music streaming app|[MIT](https://spdx.org/licenses/MIT.html "https://spdx.org/licenses/MIT.html")|
 |[h2testw](https://h2testw.org)|Check speed and memory capacity of flash drives, SD cards and HDD.|[Freeware](https://en.wikipedia.org/wiki/Freeware "https://en.wikipedia.org/wiki/Freeware")|
 |[hasher](http://www.den4b.com/)|Hashing utility for verifying integrity of files. Supported algorithms: CRC32, MD2, MD4, MD5, SHA1, SHA256, SHA512, RipeMD128, RipeMD160, ED2K|[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html "https://spdx.org/licenses/CC-BY-NC-ND-3.0.html")|
+|[hdrtray](https://github.com/res2k/HDRTray)|Tray icon and command line utility to change Windows HDR status.|[GPL-3.0](https://spdx.org/licenses/GPL-3.0.html "https://spdx.org/licenses/GPL-3.0.html")|
 |[heavyload](https://www.jam-software.com/heavyload)|Bring your PC under a heavy load and lets you test its reliability|[Freeware](https://www.jam-software.com/company/license_agreement.shtml "https://www.jam-software.com/company/license_agreement.shtml")|
 |[komorebi-tray](https://github.com/starise/komorebi-tray)|A tray app for komorebi tiling window manager.|[ISC](https://spdx.org/licenses/ISC.html "https://spdx.org/licenses/ISC.html")|
 |[latencymon](https://www.resplendence.com/latencymon)|Real-time audio suitability checker.|[Freeware](https://en.wikipedia.org/wiki/Freeware "https://en.wikipedia.org/wiki/Freeware")|
