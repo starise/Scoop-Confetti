@@ -6,7 +6,7 @@ Bucket of Confetti 🎊 for [Scoop](https://scoop.sh/) command-line installer fo
 
 ## Installation
 
-```powershell
+```powershell#@
 scoop bucket add confetti https://github.com/starise/Scoop-Confetti
 ```
 
@@ -36,6 +36,7 @@ scoop bucket add confetti https://github.com/starise/Scoop-Confetti
 |[firefox-developer-it](https://www.mozilla.org/it/firefox/developer/)|Firefox Developer Edition: open source web browser. Custom policies.json file. Italian Language Pack.|[MPL-2.0](https://spdx.org/licenses/MPL-2.0.html "https://spdx.org/licenses/MPL-2.0.html")|
 |[firefox-it](https://www.mozilla.org/it/firefox/)|Mozilla Firefox: open source web browser. Custom policies.json file. Italian Language Pack.|[MPL-2.0](https://spdx.org/licenses/MPL-2.0.html "https://spdx.org/licenses/MPL-2.0.html")|
 |[firefox-portable-it](https://www.mozilla.org/it/firefox/)|Mozilla Firefox (Portable): open source web browser. Custom policies.json file. Italian Language Pack.|[MPL-2.0](https://spdx.org/licenses/MPL-2.0.html "https://spdx.org/licenses/MPL-2.0.html")|
+|[forgecode](https://github.com/antinomyhq/forgecode)|Forge: AI-Enhanced Terminal Development Environment|[Apache-2.0](https://spdx.org/licenses/Apache-2.0.html "https://spdx.org/licenses/Apache-2.0.html")|
 |[h2testw](https://h2testw.org)|Check speed and memory capacity of flash drives, SD cards and HDD.|[Freeware](https://en.wikipedia.org/wiki/Freeware "https://en.wikipedia.org/wiki/Freeware")|
 |[hasher](http://www.den4b.com/)|Hashing utility for verifying integrity of files. Supported algorithms: CRC32, MD2, MD4, MD5, SHA1, SHA256, SHA512, RipeMD128, RipeMD160, ED2K|[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html "https://spdx.org/licenses/CC-BY-NC-ND-3.0.html")|
 |[hdrtray](https://github.com/res2k/HDRTray)|Tray icon and command line utility to change Windows HDR status.|[GPL-3.0](https://spdx.org/licenses/GPL-3.0.html "https://spdx.org/licenses/GPL-3.0.html")|
