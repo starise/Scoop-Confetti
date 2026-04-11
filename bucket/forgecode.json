@@ -1,10 +1,10 @@
 {
-    "version": "2.9.7",
+    "version": "2.9.8",
     "description": "Forge: AI-Enhanced Terminal Development Environment",
     "homepage": "https://github.com/antinomyhq/forgecode",
     "license": "Apache-2.0",
-    "url": "https://github.com/antinomyhq/forgecode/releases/download/v2.9.7/forge-x86_64-pc-windows-msvc.exe",
-    "hash": "14e694df644acfc64ed776b7e59cd9c73b210c84dd7c9b95ee5aa3df02fa3700",
+    "url": "https://github.com/antinomyhq/forgecode/releases/download/v2.9.8/forge-x86_64-pc-windows-msvc.exe",
+    "hash": "104382d8b61ae735bc8a60e968a2a55b4bac0133a8edff976ea5578a38919208",
     "bin": [
         [
             "forge-x86_64-pc-windows-msvc.exe",
