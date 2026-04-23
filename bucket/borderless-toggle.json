@@ -7,6 +7,7 @@
     "hash": "faaabb350ad0c7a33248c212a42a3418c19b9bac967efd15b1bd2d0953f9f8b3",
     "bin": "BorderlessToggle.exe",
     "shortcuts": [["BorderlessToggle.exe", "Borderless Toggle"]],
+    "persist": "settings.ini",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/starise/borderless-toggle/releases/download/$version/BorderlessToggle-$version.zip"
