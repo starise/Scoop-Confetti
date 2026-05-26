@@ -1,17 +1,18 @@
 on:
   schedule:
-  - cron: '0 2/12 * * *'
+    - cron: "0 2/12 * * *"
+  workflow_dispatch:
 name: Excavator
 jobs:
   excavate:
-    name: Excavate
+    name: Excavator
     runs-on: windows-latest
     steps:
-    - uses: actions/checkout@main
-    - name: Excavate
-      uses: Ash258/Scoop-GithubActions@stable-win
-      env:
-        GITH_EMAIL: ${{ secrets.GITH_EMAIL }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SHOVEL: '1'
-        SKIP_UPDATED: '1'
+      # https://github.com/ScoopInstaller/GithubActions
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - name: Excavator
+        uses: ScoopInstaller/GithubActions@main
+        env:
+          USER_EMAIL: ${{ secrets.USER_EMAIL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SKIP_UPDATED: "1"
